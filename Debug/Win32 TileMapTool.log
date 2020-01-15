@@ -1,0 +1,10 @@
+﻿  Win32 TileMapTool.cpp
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(309,12): warning C4101:  'oPen' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(306,16): warning C4101:  'memDC2' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(308,21): warning C4101:  'CopyBitmap' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(310,9): warning C4101:  'Brush' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(308,10): warning C4101:  'OldBitmap' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(309,7): warning C4101:  'Pen' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(306,10): warning C4101:  'memDC' :참조되지 않은 지역 변수입니다.
+C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Win32 TileMapTool\Win32 TileMapTool.cpp(310,16): warning C4101:  'oBrush' :참조되지 않은 지역 변수입니다.
+  Win32 TileMapTool.vcxproj -> C:\Users\admin\Desktop\윈도우 게임 프로젝트\Win32 TileMapTool\Debug\Win32 TileMapTool.exe
